@@ -60,7 +60,7 @@ Accept-Encoding: gzip, deflate
 Connection: keep-alive
 ```
 
-> 📸 **Captura de pantalla:** ![Captura de DevTools con la solicitud a neverssl.com](captura-network.png)
+> ![Captura de DevTools con la solicitud a neverssl.com](captura-network.png)
 
 
 **Observación clave:** el navegador no muestra ningún candado y el esquema es `http://`. Todo lo listado arriba viaja como **texto plano** por la red.
