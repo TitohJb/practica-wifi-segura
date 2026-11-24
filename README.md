@@ -53,7 +53,7 @@ Datos de la primera solicitud (pestaña *Network* → *Headers*):
 ```http
 GET / HTTP/1.1
 Host: neverssl.com
-User-Agent: [completar con tu User-Agent real, ej. Mozilla/5.0 (...) Chrome/...]
+User-Agent: [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36]
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: es-AR,es;q=0.9
 Accept-Encoding: gzip, deflate
