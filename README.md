@@ -1,9 +1,9 @@
 # Informe de Auditoría de Red Wi-Fi Insegura
 
-**Práctica:** Seguridad en el aire: cómo sobrevivir a una Wi-Fi pública
-**Rol:** Auditor de seguridad junior
-**Autor/a:** Iván Piffer
-**Fecha:** 24/11/2026
+**Práctica:** Seguridad en el aire: cómo sobrevivir a una Wi-Fi pública.
+**Rol:** Auditor de seguridad junior.
+**Autor/a:** Iván Piffer.
+**Fecha:** 24/11/2026.
 
 ---
 
