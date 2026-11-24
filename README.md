@@ -2,7 +2,7 @@
 
 **Práctica:** Seguridad en el aire: cómo sobrevivir a una Wi-Fi pública.
 **Rol:** Auditor de seguridad junior.
-**Autor/a:** Iván Piffer.
+**Autor:** Iván Piffer.
 **Fecha:** 24/11/2026.
 
 ---
